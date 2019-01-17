@@ -1,7 +1,7 @@
 {
-  "name": "sadovojav/yii2-ckeditor",
+  "name": "Danchello/yii2-ckeditor",
   "description": "Yii2 CKEditor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "yii2-extension",
   "keywords": [
     "yii",
