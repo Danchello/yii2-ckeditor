@@ -19,10 +19,10 @@ class AssetBundle extends \yii\web\AssetBundle
         'yii\web\JqueryAsset',
     ];
 
+
     public function init()
     {
         $this->sourcePath = __DIR__ . '/assets';
-        $this->jsOptions['position'] = View::POS_END;
 
         parent::init();
     }
